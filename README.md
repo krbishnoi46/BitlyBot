@@ -13,13 +13,13 @@ Bitly Short link generator Bot
 * BITLY_TOKEN  - From https://bitly.is/accesstoken
 
 ## Deploy
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lntechnical2/BitlyBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/krbishnoi46/BitlyBot)
 
 ## Support 🇮🇳
-<a href="https://t.me/lntechnical">
+<a href="https://t.me/krbishnoi46">
    <p> Telegram </p>
   </a>
-<a href="https://youtube.com/c/LNtechnical">
+<a href="https://youtube.com/c/UCCDDpe5oUxhVTpErSJVzEUw">
    <p> YouTube </p>
   </a>
 
